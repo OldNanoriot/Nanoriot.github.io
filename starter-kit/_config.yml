@@ -24,23 +24,23 @@ sass:
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: Simple Texture
-description: "A gem-based responsive simple texture styled Jekyll theme."
+title: Nanoriot
+description: "Home"
 keywords: 'jekyll,theme,gem-based,blog'
 author:
   name:
   job_title:
   location:
-  email:
+  email: nfooteaz@gmail.com
   social_links:
     - name: facebook
       url:
     - name: github
-      url: https://github.com/yizeng/jekyll-theme-simple-texture
+      url: https://github.com/Nanoriot
     - name: instagram
       url:
     - name: linkedin
-      url:
+      url: https://www.linkedin.com/in/nfootegt/
     - name: stackoverflow
       url:
     - name: twitter
